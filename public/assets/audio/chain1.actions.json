@@ -1,0 +1,31 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "sine",
+    "freq": 440.0,
+    "gain": -15.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 340.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "body",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "add_voice",
+    "name": "overtone",
+    "wave": "sine",
+    "freq": 1214.3999999999999,
+    "gain": -24.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 204.0
+  }
+]

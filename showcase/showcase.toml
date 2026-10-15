@@ -1,0 +1,11 @@
+[[media]]
+file = "chain.json.gz"
+name = "Pressure becomes a chain"
+
+[[media]]
+file = "board.png"
+name = "Cut stones under strain"
+
+[[media]]
+file = "title.png"
+name = "The lapidary collection"

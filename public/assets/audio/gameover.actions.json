@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "triangle",
+    "freq": 330.0,
+    "gain": -15.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 850.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "body",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "set_pitch",
+    "voice": "body",
+    "slide_to_hz": 115.49999999999999,
+    "over_ms": 850.0
+  }
+]

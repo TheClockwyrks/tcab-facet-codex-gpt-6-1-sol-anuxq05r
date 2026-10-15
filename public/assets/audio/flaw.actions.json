@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "noise",
+    "freq": 200.0,
+    "gain": -15.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 95.0
+  },
+  {
+    "op": "set_envelope",
+    "voice": "body",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  }
+]
